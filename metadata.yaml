@@ -1,0 +1,35 @@
+_repo: Old-Man-Savarin-Stories-Tales-of-Canada-and-Canadians_55431
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Jefferys, Charles W. (Charles William)
+    aliases:
+    - Jefferys, Charles William
+    - Jefferys, C. W. (Charles William)
+    birthdate: 1869
+    deathdate: 1951
+    gutenberg_agent_id: '37358'
+    url: http://www.gutenberg.org/2009/agents/37358
+creator:
+  author:
+    agent_name: Thomson, Edward William
+    birthdate: 1849
+    deathdate: 1924
+    gutenberg_agent_id: '9239'
+    url: http://www.gutenberg.org/2009/agents/9239
+    wikipedia: http://en.wikipedia.org/wiki/Edward_William_Thomson_%28writer%29
+description: ''
+gutenberg_issued: '2017-08-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55431'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Old Man Savarin Stories
+
+  Tales of Canada and Canadians'
+url: http://www.gutenberg.org/ebooks/55431
